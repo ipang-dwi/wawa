@@ -20,6 +20,10 @@ Program dibuat dengan mempergunakan stack :
 - MySQL 5.x / MariaDB 10.x
 
 Dikembangkan oleh :
-- Shofia Rizki Yanti, A.Md. Keb.
-  Inisiator 
-- Ivan Dwi Zunaidy, S.ST.
+- Shofia Rizki Yanti, A.Md. Keb. - Inisiator, App Tester, Implementater. 
+- Ivan Dwi Zunaidy, S.ST. - IT Analyst and Nomad Web Developer
+
+Feel free to reach me on :
+- https://www.firstplato.com
+- https://www.facebook.com/firstplato
+- admin@firstplato.com
